@@ -5,7 +5,7 @@ This project contains a sample application demonstrating various capabilities an
 - Schema migrations and queries (via [Prisma ORM](https://www.prisma.io/orm))
 - Connection pooling and caching (via [Prisma Accelerate](https://prisma.io/data-platform/accelerate))
 
-## Getting started
+## Getting started ♠
 
 ### 1. Set up a Prisma Postgres database in Prisma Data Platform
 
